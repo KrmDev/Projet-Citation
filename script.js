@@ -46,5 +46,3 @@ boutonCitation.addEventListener("click", () => {
     auteur.textContent = citations[nombreAleatoire][1]
     dernier = nombreAleatoire;
 });
-
-
